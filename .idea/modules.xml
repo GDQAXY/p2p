@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/p2p-core/p2p-core.iml" filepath="$PROJECT_DIR$/p2p-core/p2p-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-mgrsite/p2p-mgrsite.iml" filepath="$PROJECT_DIR$/p2p-mgrsite/p2p-mgrsite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-website/p2p-website.iml" filepath="$PROJECT_DIR$/p2p-website/p2p-website.iml" />
+    </modules>
+  </component>
+</project>
